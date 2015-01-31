@@ -1,0 +1,28 @@
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\DepthBasics-WPF\bin\Debug\DepthBasics-WPF.exe.config
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\DepthBasics-WPF\bin\Debug\DepthBasics-WPF.exe
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\DepthBasics-WPF\bin\Debug\DepthBasics-WPF.pdb
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\DepthBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\DepthBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\DepthBasics-WPF\obj\Debug\MainWindow.baml
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\DepthBasics-WPF\obj\Debug\App.g.cs
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\DepthBasics-WPF\obj\Debug\Kinnect DataCollector v2.csproj.GenerateResource.Cache
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\bin\Debug\DepthBasics-WPF.exe.config
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\bin\Debug\DepthBasics-WPF.exe
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\bin\Debug\DepthBasics-WPF.pdb
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\bin\Debug\Microsoft.Kinect.dll
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\bin\Debug\Microsoft.Kinect.xml
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Debug\MainWindow.baml
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Debug\MainWindow.g.cs
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Debug\App.g.cs
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Debug\DepthBasics-WPF.g.resources
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Debug\Kinnect DataCollector v2.csproj.GenerateResource.Cache
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Debug\DepthBasics-WPF.exe
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Debug\DepthBasics-WPF.pdb

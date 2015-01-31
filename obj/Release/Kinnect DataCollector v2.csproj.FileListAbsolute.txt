@@ -1,0 +1,18 @@
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\bin\Release\DepthBasics-WPF.exe.config
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\bin\Release\DepthBasics-WPF.exe
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\bin\Release\DepthBasics-WPF.pdb
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\bin\Release\Microsoft.Kinect.dll
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\bin\Release\Microsoft.Kinect.xml
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Release\Kinnect DataCollector v2.csprojResolveAssemblyReference.cache
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Release\MainWindow.baml
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Release\MainWindow.g.cs
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Release\App.g.cs
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Release\DepthBasics-WPF_MarkupCompile.cache
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Release\DepthBasics-WPF.g.resources
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Release\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Release\Kinnect DataCollector v2.csproj.GenerateResource.Cache
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Release\DepthBasics-WPF.exe
+C:\Airway Resistance_2014\Data Collection Software\Kinect data collection\Kinect DataCollector v2\obj\Release\DepthBasics-WPF.pdb
+D:\VB-PARE\Kinect-Reader\Kinect DataCollector v2\bin\Release\DepthBasics-WPF.exe.config
+D:\VB-PARE\Kinect-Reader\Kinect DataCollector v2\obj\Release\DepthBasics-WPF.exe
+D:\VB-PARE\Kinect-Reader\Kinect DataCollector v2\obj\Release\DepthBasics-WPF.pdb
